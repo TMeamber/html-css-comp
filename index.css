@@ -1,0 +1,51 @@
+body{
+    background-image: url("gif-wallpaper-3.jpg")
+}
+
+
+
+/* 25D,25C */
+footer {
+    float: right; 
+    position: relative; 
+}
+
+
+/* 23D, 22C-3, 27C, 23E */
+
+div > p{
+    font-size: 21px;
+    color: aquamarine;
+    background-color: purple; 
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+/* 24C, 24D */
+img {
+    margin: 50px;
+    border: 9px dotted green;
+}
+
+/* 24F  */
+
+button{
+    box-sizing: border-box;
+    width: 50%;
+}
+/* 22C-5 */
+h1 + h2{
+    color: white;
+}
+/* 22C-1 */
+h1#Barn{
+    color: yellow;
+}
+/* 22C-4 */
+div h1{
+    color: pink;
+}
+
+ul li {
+    color: green;
+}
