@@ -25,6 +25,7 @@ div > p{
 img {
     margin: 50px;
     border: 9px dotted green;
+    position: absolute;
 }
 
 /* 24F  */
@@ -32,6 +33,7 @@ img {
 button{
     box-sizing: border-box;
     width: 50%;
+    position: fixed;
 }
 /* 22C-5 */
 h1 + h2{
